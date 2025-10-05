@@ -1,5 +1,5 @@
 # push_swap - My Sorting Algorithm
-
+<img width="1539" height="786" alt="push_swap" src="https://github.com/user-attachments/assets/e400cfd2-fbb2-4978-91aa-26962bd3f11b" />
 
 *My stack-based sorting algorithm project*
 ---
